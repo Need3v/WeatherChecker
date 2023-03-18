@@ -1,4 +1,4 @@
-# WeatherChecker
+# ⛅ WeatherChecker
 With this responsive application you can see weather informations in any location. 
 
 ✅ To see the website click [https://need3v.github.io/WeatherChecker/](here).
@@ -8,7 +8,7 @@ With this responsive application you can see weather informations in any locatio
 * Request informations with API
 * Dark theme
 
-# Screenshots
+# 📷 Screenshots
 
 ## PC
 ![PC](https://user-images.githubusercontent.com/86328823/226108784-87b98f0d-facb-40af-b7b9-1fe19c8f7d7c.png)
