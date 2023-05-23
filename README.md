@@ -1,7 +1,7 @@
 # ⛅ WeatherChecker
-With this responsive application you can see weather informations in any location. 
+With this responsive application you will can see weather informations in any location. 
 
-✅ To see the website click [https://need3v.github.io/WeatherChecker/](here).
+✅ Live Demo [https://tanzbr.github.io/WeatherChecker/](here).
 
 # To-do list
 * Searh bar for select location
