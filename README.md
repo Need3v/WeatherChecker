@@ -1,7 +1,7 @@
 # ⛅ WeatherChecker
 With this responsive website you will can see weather informations in any location. 
 
-✅ Live Demo [https://tanzbr.github.io/WeatherChecker/](here).
+✅ Live Demo [here](https://tanzbr.github.io/WeatherChecker/).
 
 # To-do list
 * Searh bar for select location
